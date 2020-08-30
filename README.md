@@ -1,6 +1,10 @@
 # Introduction to Data Visualization with Bokeh
 
-## Setup
+Mybinder: https://tinyurl.com/BokehWorkshopBeginner
+
+Open the above link in your web browser and navigate to `workshop/workshop.ipynb`. You should be good to go!
+
+## Local setup
 
 1. Clone this repository and navigate to the root directory.
 
